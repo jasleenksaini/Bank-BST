@@ -1,3 +1,3 @@
 # Bank Management System
 
-This project implements a banking system utilizing a binary search tree and queue. The system efficiently processes banking transactions while ensuring first-in-first-out (FIFO) order through the use of queues, enabling seamless handling of account management and balance retrieval.
+This C++ project implements a banking system that utilizes a binary search tree and a queue. It efficiently processes banking transaction data from a file, uses a queue to ensure transactions are processed in FIFO order, and employs binary search trees for effective account management and balance retrieval.
